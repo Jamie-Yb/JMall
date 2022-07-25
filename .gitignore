@@ -1,6 +1,5 @@
 .idea/
 jeecg-boot/jeecg-boot-base/jeecg-boot-base-api/jeecg-system-local-api/target/
-jeecg-boot/jeecg-boot-base/jeecg-boot-base-core/target/classes/org/jeecg/common/api/CommonAPI.class
 jeecg-boot/jeecg-boot-base/jeecg-boot-base-core/target/
 jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools/target/
 jeecg-boot/jeecg-boot-module-demo/target/
